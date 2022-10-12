@@ -1,0 +1,12 @@
+.mainHead{
+    width : 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 10px auto;
+}
+.mainHead div{
+    text-align: center;
+ }
+ :nth-child(odd){
+     cursor: pointer;
+ }

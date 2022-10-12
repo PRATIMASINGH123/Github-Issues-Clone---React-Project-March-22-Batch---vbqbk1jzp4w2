@@ -1,0 +1,12 @@
+.issueCardParent{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 5% 95%;
+    border: 1px solid black;
+}
+.issueStatus{
+    padding : 8px 0 8px 16px;
+}
+.issueDetails{
+    padding: 8px;
+}
